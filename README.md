@@ -1,5 +1,5 @@
 # MouseHead
-Using computer vision to turn your mouse into a head, placed in university hackathon
+Using computer vision to turn your mouse into a head
 
 Stick your tounge out to left click
 
