@@ -1,5 +1,4 @@
 # MouseHead
-# MouseHead
 
 MouseHead is a computer vision–based human–computer interaction system that enables hands-free mouse control using head movement and facial gestures. By leveraging real-time facial landmark detection through a standard webcam, MouseHead translates natural facial expressions into mouse actions.
 
